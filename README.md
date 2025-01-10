@@ -4,22 +4,22 @@ A web-based Sudoku Solver application developed using Next.js that allows users 
 
 # Features
 
-    9x9 Sudoku Grid: 
+9x9 Sudoku Grid: 
    Users can input Sudoku values (1-9) or leave cells blank for unknown values.
 
-   Validate Button: 
+Validate Button: 
    Checks the validity of the current state of the inputs.
 
-   Solve Button: 
+Solve Button: 
    Solves the Sudoku puzzle if the entries are valid and displays the solution.
 
-   Error Messages: 
+Error Messages: 
    Displays error messages for invalid entries.
 
-   Validation Logic: 
+Validation Logic: 
    Ensures rows, columns, and 3x3 sub-grids contain unique values.
 
-   Backtracking Algorithm: 
+Backtracking Algorithm: 
    Efficiently solves the Sudoku puzzle.
 
   # Additional Features (Bonus):
