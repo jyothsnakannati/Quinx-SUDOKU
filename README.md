@@ -23,16 +23,16 @@ Backtracking Algorithm:
    Efficiently solves the Sudoku puzzle.
 
   # Additional Features (Bonus):
+Creative UI styling.
 
-    Creative UI styling.
-
-     Hints for users.
+Hints for users.
 
 # Installation and Setup
 
 Clone the repository:
 
 git clone https://github.com/jyothsnakannati/Quinx-SUDOKU.git
+
 cd sudoku-solver
 
 Install dependencies:
