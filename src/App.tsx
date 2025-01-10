@@ -121,8 +121,7 @@ function App() {
                   colIndex % 3 === 2 && colIndex !== 8 ? 'border-r-2 border-gray-400' : ''
                 } ${
                   rowIndex % 3 === 2 && rowIndex !== 8 ? 'border-b-2 border-gray-400' : ''
-                }`}
-              >
+                }`} >
                 <SudokuCell
                   value={cell}
                   onChange={(value) => handleCellChange(rowIndex, colIndex, value)}
