@@ -32,7 +32,7 @@ Backtracking Algorithm:
 
 Clone the repository:
 
-git clone https://github.com/your-username/sudoku-solver.git
+git clone https://github.com/jyothsnakannati/Quinx-SUDOKU.git
 cd sudoku-solver
 
 Install dependencies:
@@ -45,7 +45,7 @@ npm run dev
 
 Open the application in your browser:
 
-http://localhost:3000
+http://localhost:5173/jyothsnakannati/Quinx-SUDOKU/
 
 # How to Use
 
