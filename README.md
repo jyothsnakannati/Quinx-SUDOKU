@@ -2,24 +2,24 @@
 
 A web-based Sudoku Solver application developed using Next.js that allows users to input initial Sudoku values, validate the entries, and solve the Sudoku puzzle if the inputs are valid. The application uses a backtracking algorithm for solving Sudoku puzzles and includes validation logic for rows, columns, and 3x3 sub-grids.
 
-## Features
+# Features
 
-   # 9x9 Sudoku Grid: 
+    9x9 Sudoku Grid: 
    Users can input Sudoku values (1-9) or leave cells blank for unknown values.
 
-   # Validate Button: 
+   Validate Button: 
    Checks the validity of the current state of the inputs.
 
-   # Solve Button: 
+   Solve Button: 
    Solves the Sudoku puzzle if the entries are valid and displays the solution.
 
-   # Error Messages: 
+   Error Messages: 
    Displays error messages for invalid entries.
 
-   # Validation Logic: 
+   Validation Logic: 
    Ensures rows, columns, and 3x3 sub-grids contain unique values.
 
-   # Backtracking Algorithm: 
+   Backtracking Algorithm: 
    Efficiently solves the Sudoku puzzle.
 
   # Additional Features (Bonus):
@@ -28,7 +28,7 @@ A web-based Sudoku Solver application developed using Next.js that allows users 
 
      Hints for users.
 
-## Installation and Setup
+# Installation and Setup
 
 Clone the repository:
 
@@ -71,7 +71,7 @@ Solving Algorithm
 
 Implements a backtracking algorithm to solve the puzzle. The algorithm tries placing numbers from 1-9 in empty cells while checking validity constraints. If no valid number can be placed, it backtracks to a previous cell.
 
-## Project Structure
+# Project Structure
 
 src
 ├── components
@@ -87,7 +87,7 @@ Styling is implemented with a modern and minimalistic design approach.
 
 Hints feature allows users to get suggestions for solving the puzzle step-by-step.
 
-## Steps for Running the Project
+# Steps for Running the Project
 
 Ensure Node.js and npm are installed on your system.
 
