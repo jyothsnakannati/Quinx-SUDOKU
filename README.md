@@ -71,14 +71,6 @@ Solving Algorithm
 
 Implements a backtracking algorithm to solve the puzzle. The algorithm tries placing numbers from 1-9 in empty cells while checking validity constraints. If no valid number can be placed, it backtracks to a previous cell.
 
-# Project Structure
-
-src
-├── components
-│   ├── SudokuCell.js  # Component for the 9x9 grid
-├── utils
-│   ├── sudokuSolver.js  # Backtracking algorithm
-
 # Additional Notes
 
 The application is designed to be responsive and user-friendly.
